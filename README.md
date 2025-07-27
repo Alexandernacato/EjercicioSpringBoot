@@ -24,8 +24,8 @@ Este repositorio contiene una arquitectura de microservicios construida con **Sp
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/Alexandernacato/EjercicioSpringBoot.git
+cd EjercicioSpringBoot
 
 # Construye y levanta todos los contenedores
 docker compose up --build
